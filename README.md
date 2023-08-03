@@ -1,6 +1,8 @@
 # React Recipe App
 
-React API Project Tutorial Using Hooks, Axios and Firebase.
+*React API Project Tutorial Using Hooks, Axios and Firebase.
+
+*Sign in https://www.edamam.com/ get your own API key and ID after making an application 
 
 
 ## Available Scripts
