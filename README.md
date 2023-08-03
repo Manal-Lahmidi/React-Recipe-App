@@ -4,7 +4,8 @@
 
 *React API Project Tutorial Using Hooks, Axios and Firebase.
 
-*Sign in https://www.edamam.com/ get your own API key and ID after making an application 
+*Sign in https://www.edamam.com/ get your own API key and ID after making an application:
+![image](https://github.com/Manal-Lahmidi/React-Recipe-App/assets/129679210/fb205fa2-8df9-42f6-99c8-f230e5dae23b)
 
 
 ## Available Scripts
