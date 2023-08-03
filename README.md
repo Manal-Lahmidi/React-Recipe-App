@@ -1,4 +1,4 @@
-![image](https://github.com/Manal-Lahmidi/React-Recipe-App/assets/129679210/18999269-3158-4746-b867-71b0d4bc4f22)
+![image](https://github.com/Manal-Lahmidi/React-Recipe-App/assets/129679210/16891735-0b43-47cd-a6ad-7bc2f8ba4c4c)
 
 # React Recipe App
 
