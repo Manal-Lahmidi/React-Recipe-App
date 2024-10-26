@@ -15,7 +15,7 @@ function App() {
     try {
       const result = await Axios.get(url);//The await keyword pauses the execution of the function until the fetch operation is finished and the response is received.
       setRecipes(result.data.hits);
-      console.log(result.data.hits);
+      console.log("sbsbsbbss",result.data.hits);
     } catch (error) {
       console.error("Error fetching recipes:", error);
     }
@@ -43,9 +43,9 @@ function App() {
       
 
       <div className="app__recipes">
-      {recipes !== [] &&
+      {recipes.length > 0 &&
           recipes.map((recipe) => {
-            return <RecipeDisplay recipe={recipe} key={recipe.recipe.uri}/>;
+            return <RecipeDisplay recipe={recipe.recipe} key={recipe.recipe.uri}/>;
           })}
       </div>
     </div>
